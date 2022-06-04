@@ -1,0 +1,7 @@
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe.config
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.pdb
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.AssemblyReference.cache
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.CoreCompileInputs.cache
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.exe
+C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.pdb

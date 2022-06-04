@@ -5,3 +5,17 @@ C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.A
 C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.CoreCompileInputs.cache
 C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.exe
 C:\Users\syuren\source\repos\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe.config
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.pdb
+E:\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe.config
+E:\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.exe
+E:\BudgetPlan\BudgetPlan\bin\Debug\BudgetPlan.pdb
+E:\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.AssemblyReference.cache
+E:\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.csproj.CoreCompileInputs.cache
+E:\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.exe
+E:\BudgetPlan\BudgetPlan\obj\Debug\BudgetPlan.pdb
